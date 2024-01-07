@@ -1,0 +1,12 @@
+photo
+signature
+preview
+resume
+
+social
+gmail/github/linkedin
+leetcode
+instagram/Youtube/SoundCloud/spotify
+
+internship
+description
